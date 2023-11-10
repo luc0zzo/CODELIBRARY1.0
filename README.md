@@ -1,2 +1,0 @@
-# sitoPCTO
-lenguage: IT
